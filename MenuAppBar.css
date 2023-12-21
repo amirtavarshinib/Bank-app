@@ -1,0 +1,181 @@
+.card1
+{
+    display: inline-block;
+    padding: 5px;
+    border-style: hidden;
+    border-radius: 70px;
+}
+.card1 :hover{
+    background-color:lightgrey;
+    /* transform: scale(1.0); */
+    transition: transform .2s; 
+    box-shadow: inset;
+}
+.card2
+{
+    display: inline-block;
+    padding:6px
+}
+.card2 :hover{
+    background-color: lightgray;
+    /* transform: scale(1.0); */
+    transition: transform .2s; 
+    box-shadow: inset;
+}
+.card3
+{
+    display: inline-block;
+    border-radius: 10cm;
+    padding: 6px;
+}
+.card3 :hover{
+    background-color:lightgray;
+    /* transform: scale(1.0); */
+    transition: transform .2s; 
+    box-shadow: inset;
+}
+.card4
+{
+    display: inline-block;
+    border-radius: 10cm;
+}
+.card4 :hover{
+    background-color:lightgray;
+    /* transform: scale(1.0); */
+    transition: transform .2s; 
+    box-shadow: inset;
+}
+.maincard
+{
+    padding-left:60px ;
+   margin-left: 30px;
+}
+fieldset {
+    border: 2px solid transparent; 
+    border-style: groove;
+    border-color:black;
+    border-radius: 2cm;
+    box-sizing:content-box;
+    justify-items: center;
+    grid-area: 1 / 1; /* first row, first column */
+    padding: 50px; 
+    width: 700px;
+    height: 40px;
+  }
+  .pay
+  {
+    padding-left: 250px;
+    justify-content: center;
+    width: 1000px;
+   
+    
+
+  }
+  .qr
+  {
+    padding-left: 25px;
+    /* display: inline-block; */
+  }
+  
+  .con
+  {
+    padding-left: 37px;
+    /* display: inline-block; */
+
+  }
+  
+
+.acc
+{
+    padding-left: 36px;
+    /* display: inline-block; */
+
+}
+.ba
+{
+    padding-left: 17px;
+    /* display: inline-block; */
+
+}
+
+.bi
+{
+    padding-left: 20px;
+    /* display: inline-block; */
+
+}
+
+.i
+{
+    /* padding-left: 25px; */
+    display: inline-block;
+    padding: 15px;
+
+}
+.ii
+{
+    /* padding-left: 25px; */
+    display: inline-block;
+    padding: 17px;
+
+}
+.iii
+{
+    /* padding-left: 25px; */
+    display: inline-block;
+    padding: 17px;
+
+}
+.iiii
+{
+    /* padding-left: 25px; */
+    display: inline-block;
+    padding: 25px;
+
+}
+.iiiii
+{
+    /* padding-left: 25px; */
+    display: inline-block;
+    padding: 24px;
+
+}
+.maincol
+{
+    padding-left: 70px;
+    /* justify-content: center; */
+}
+img
+{
+    height: 70px;
+    width: 130px;
+}
+.balance
+{
+    width: 1120px;
+    padding-left: 90px;
+}
+.balance :hover{
+    background-color:lightgray;
+}
+.divba
+{
+    padding-left: 6px;
+    height: 70px;
+}
+.head2
+{
+    background:linear-gradient(45deg, rgb(195, 11, 112), rgb(218, 62, 171),rgb(151, 13, 153),rgb(97, 9, 135));
+    height: 250px;
+   
+}
+.logo
+{
+    padding-right: 20%;
+}
+.menuicon
+{
+    padding-right: 30px;
+}
+
+

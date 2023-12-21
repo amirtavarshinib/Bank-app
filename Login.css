@@ -1,0 +1,70 @@
+
+.log
+{
+  text-align: center;
+  padding-left:40px;
+  background-color: lavender;
+}
+form
+{
+  background-color: lavender;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  max-width: 430px;
+  margin: 90px;
+  /* background:transparent;  */
+  padding: 60px;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(239, 237, 237, 0.1);
+  float:right;
+}
+input {
+  padding: 6px;
+  margin-bottom: 13px;
+  width: 7cm;
+  border-radius: 30px;
+}
+.imag{
+  text-align: center;
+  display:flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin:110px;
+  padding: 80px;
+  border-radius: 8px;
+  /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);*/
+  float:left;
+  color: black;
+
+}
+h3{
+  color:black;
+}
+button{
+  background-color: white;
+  border-radius:20px;
+  width:4cm;
+  color: black;
+}
+.link h6 a
+{
+  color: black;
+  text-decoration: none;
+  font-weight: 600;
+}
+.login_container {
+  background-image:url("C:\Users\New\OneDrive\Desktop\Clg files\eKitapp\React Proj\reacteg\public\bank2.png");
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100vh;
+}
+.Link{
+  color: white;
+}
+
+
+
+
+
